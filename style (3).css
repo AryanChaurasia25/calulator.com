@@ -35,7 +35,7 @@ header h1 {
 
 /*font and margin for text before input box */
 label {
-    font-size: 20px;
+    font-size:15px;
     margin: 2%;
 }
 
@@ -80,4 +80,5 @@ nav{
     background-color: rgb(243, 165, 116);
 
 }
+
 
